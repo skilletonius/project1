@@ -2,7 +2,7 @@
 
 int main(){
               
-              printf(Our first Linux.n program);
+              printf(Hello World!);
               return 0;
 
 };
